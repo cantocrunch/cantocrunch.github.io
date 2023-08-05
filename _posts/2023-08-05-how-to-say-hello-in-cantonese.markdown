@@ -139,7 +139,7 @@ Easily enough, many Cantonese Speakers will simply use English to say “Hi” o
   </span>
 </span> is also used in Cantonese in more formal contexts, like meeting someone for the first time or talking to an elder.
 
-Like English, in day-to-day life, Cantonese does not have any special gestures like bowing or kissing when greet someone.
+Like English, in day-to-day life, Cantonese does not have any special gestures like bowing or kissing when greeting someone.
 
 ### 喂 (wai2)
 
