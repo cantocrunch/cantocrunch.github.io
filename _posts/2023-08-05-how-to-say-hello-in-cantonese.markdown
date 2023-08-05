@@ -2,6 +2,9 @@
 layout: post
 title:  "How to say Hello in Cantonese"
 date:   2023-08-05 10:00:18 +1000
+last_modified_at: 2023-08-05 13:00:00 +1000
+# description: Hi there! 哈囉 (haa1 lo3)! 你好 (nei5 hou2)! Cantonese can unlock captivating stories that bring you closer to the hearts of those who speak it. Yet, it all begins with a simple ‘hello,’ forming the basis of any conversation. In this blog post, we’re going to unveil the different ways you can greet someone in Cantonese, covering informal and formal contexts, what to do when someone asks "How are you?", and "Hello" at different times of the day.
+permalink: how-to-say-hello-in-cantonese
 # categories: jekyll update
 ---
 
