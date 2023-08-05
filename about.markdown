@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to Canto Crunch, the blog where the vibrant world of the Cantonese language is unraveled. My name is TCL (Tarot Cake Lover), an ardent enthusiast and explorer of languages, especially Cantonese. I decided to start this blog to share my admiration for the rich tones, the cultural nuances, and the melodic rhythm that makes Cantonese unique. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+With in-depth articles covering everything from common phrases to the technicalities of reading in Cantonese Chinese, my goal is to make this beautiful language accessible to all. Whether you're looking to chat with relatives in their mother tongue or order Dim Sum like a native speaker, Canto Crunch is here to guide you.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Disclaimer: I do work for [Camp Lingo](http://camplingo.com/), enhancing my professional understanding of languages and learning techniques. However, the opinions and experiences shared on Canto Crunch are my own.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Let's embark on this Cantonese language learning journey together. Welcome to Canto Crunch!
