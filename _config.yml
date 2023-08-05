@@ -23,7 +23,7 @@ email: canto.crunch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Delve into the fascinating world of Cantonese language with Canto Crunch. This blog writes about all things Cantonese - from its distinct usage in Hong Kong to its wide presence in Chinatowns worldwide. Expand your knowledge with phrases and reading techniques essential for fluency in Cantonese Chinese. Start engaging with relatives and ordering your favorite Dim Sum (also known as Yum Cha) authentically. Embark on your Cantonese language learning journey with Canto Crunch!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cantocrunch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
