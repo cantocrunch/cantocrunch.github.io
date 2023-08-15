@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "First Six Words in Cantonese"
-date:   2022-08-17 10:00:00 +1000
-last_modified_at: 2023-08-10 10:00:00 +1000
+date:   2023-08-17 10:00:00 +1000
+last_modified_at: 2023-08-15 10:00:00 +1000
 description: Six Fundamental Cantonese words to learn first. Perfect for Cantonese (廣東話) beginners who are just starting their journey as Cantonese students. Like (鍾意), Not (唔), I (我), You (你), This (呢個), and What (乜嘢). With these six words you can start forming basic sentences and building up your vocabulary.
 permalink: first-six-words-in-cantonese
 # categories: jekyll update
